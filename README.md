@@ -32,7 +32,7 @@ To run this application locally, ensure you have Python installed, then follow t
 ## Usage
 - Launch the application by running the command above.
 - Use the sidebar controls to filter models and select performance metrics.
-- Explore different tabs for model comparisons, sample interactions, cold-start analysis, and insights.
+- Explore different tabs for model comparisons, sample interactions, cold-start analysis, and insights.[Streamlit](https://ddi-detection-tool-3d3cskbs9ducfxr2ayou5c.streamlit.app/)
 
 ## Contributing
 Feel free to submit issues or pull requests to improve this tool. Your contributions are welcome!
