@@ -42,5 +42,4 @@ This project is licensed under the MIT License.
 
 ## Acknowledgments
 This tool is developed based on research methodologies for predicting drug-drug interactions using AI models.
-
 ```
