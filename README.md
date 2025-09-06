@@ -1,4 +1,4 @@
-# Drug-Drug Interaction (DDI) Detection Tool
+# Comparative Analysis of AI Models for Drug-Drug Interaction Detection
 # Dr. Luqman Bin Fahad
 
 ## Overview
