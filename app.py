@@ -6,7 +6,7 @@ from components.model_comparison import display_model_insights, display_model_re
 
 # Page configuration
 st.set_page_config(
-    page_title="DDI Detection Tool",
+    page_title="Comparative Analysis of AI Models for DDI Detection",
     page_icon="💊",
     layout="wide",
     initial_sidebar_state="expanded"
